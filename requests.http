@@ -1,2 +1,5 @@
 ### Characters Index
 GET http://localhost:3000/characters
+
+### Characters Show
+GET http://localhost:3000/characters/1.json
